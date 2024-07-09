@@ -7,6 +7,10 @@
     <title>Document</title>
 </head>
 <body>
-<h2>Admin Dashboard</h2>
+
+<x-app-layout>
+    <h2>Admin Dashboard</h2>
+</x-app-layout>
+
 </body>
 </html>

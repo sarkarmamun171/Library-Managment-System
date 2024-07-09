@@ -7,6 +7,9 @@
     <title>Document</title>
 </head>
 <body>
-<h2>User Dashboard</h2>
+
+<x-app-layout>
+    <h2>User Dashboard</h2>
+</x-app-layout>
 </body>
 </html>
